@@ -4,37 +4,37 @@ Kaggle-Courses
 
 -----
 
-## 1. Kaggle-Courses-Python
+## 1. Python
 
-## 2. Kaggle-Courses-Machine-Learning-Explainability
+## 2. Machine-Learning-Explainability
 
-## 3. Kaggle-Courses-Geospatial-Analysis
+## 3. Geospatial-Analysis
 
-## 4. Kaggle-Courses-Intro-to-AI-Ethics
+## 4. Intro-to-AI-Ethics
 
-## 5. Kaggle-Courses-Time-Series
+## 5. Time-Series
 
-## 6. Kaggle-Courses-Computer-Vision
+## 6. Computer-Vision
 
-## 7. Kaggle-Courses-Intro-to-Deep-Learning
+## 7. Intro-to-Deep-Learning
 
-## 8. Kaggle-Courses-Advanced-SQL
+## 8. Advanced-SQL
 
-## 9. Kaggle-Courses-Intro-to-SQL
+## 9. Intro-to-SQL
 
-## 10. Kaggle-Courses-Pandas
+## 10. Pandas
 
-## 11. Kaggle-Courses_Intro-to-Machine-Learning
+## 11. Intro-to-Machine-Learning
 
-## 12. Kaggle-Courses-Data-Visualization
+## 12. Data-Visualization
 
-## 13. Kaggle-Courses-Data-Cleaning
+## 13. Data-Cleaning
 
-## 14. Kaggle-Courses-Feature-Engineering
+## 14. Feature-Engineering
 
-## 15. Kaggle-Courses_Intermediate-Machine-Learning
+## 15. Intermediate-Machine-Learning
 
-## 16. Kaggle-Intro_to_Game_AI_and_Reinforcement_Learning
+## 16. Intro_to_Game_AI_and_Reinforcement_Learning
 
 
 -----
