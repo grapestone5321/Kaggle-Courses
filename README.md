@@ -34,7 +34,7 @@ Kaggle-Courses
 
 ## 15. Kaggle-Courses_Intermediate-Machine-Learning
 
-## 15. Kaggle-Intro_to_Game_AI_and_Reinforcement_Learning
+## 16. Kaggle-Intro_to_Game_AI_and_Reinforcement_Learning
 
 
 -----
